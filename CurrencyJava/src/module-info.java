@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Lina
+ *
+ */
+module CurrencyJava {
+}
